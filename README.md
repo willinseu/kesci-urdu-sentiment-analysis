@@ -3,8 +3,9 @@
 
 competition link:https://www.kesci.com/home/competition/5c77ab9c1ce0af002b55af86/content/0
 
-## some hints:
+## some notes:
 1.lstm提交得分在0.83-0.84左右。lstm配套的讲解博客地址：https://blog.csdn.net/ssswill/article/details/88533623
 
-epoch：1~5 is enough
+hints:epoch：1~5 is enough
+
 2.ML解法陆续更新。
