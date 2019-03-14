@@ -23,4 +23,4 @@ you can improve your score base on this method.
 2.可以通过一些手段使TF-idf的效果可以进一步提高，比如进一步对语句更细节的清洗，在谷歌上看过一些关于urdu清洗的论文，可以关键词搜索【roman urdu】
 3.添加对表情处理我觉得会对你有帮助。
 4.尝试CNN,bilstm,attention等模型。
-4.虽然是练习赛，所以没有花很多的心思，但是如果钻研的话，我相信可以超过0.9。Good Luck~
+5.虽然是练习赛，所以没有花很多的心思，但是如果钻研的话，我相信可以超过0.9。Good Luck~
