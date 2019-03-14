@@ -14,7 +14,8 @@ epoch：1~5 is enough
 SGD classifier baseline,lb=0.8651。
 
 ### 3.lgb.ipynb:
-Lightgbm baseline,lb=0.8447，use bayesian optimization to find hyperparameter for lgbm
+Lightgbm baseline,lb=0.8447，use bayesian optimization to find hyperparameter for lgbm。
+
 you can improve your score base on this method.
 
 ### 4.一些心得
