@@ -24,3 +24,7 @@ you can improve your score base on this method.
 3.添加对表情处理我觉得会对你有帮助。
 4.尝试CNN,bilstm,attention等模型。
 5.虽然是练习赛，所以没有花很多的心思，但是如果钻研的话，我相信可以超过0.9。Good Luck~
+
+### 5.提升版本
+我在另一个数据集上用了更高级的技术来解决nlp问题，有兴趣可以到https://github.com/willinseu/kaggle-Jigsaw-Unintended-Bias-in-Toxicity-Classification-solution
+但由于需要写配套的博文，这样才能说清楚，所以进展较慢，所以大家可以保持watch，我会慢慢更新那一个项目。
